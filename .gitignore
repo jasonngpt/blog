@@ -1,0 +1,6 @@
+# Output and tmp Directory
+output/*
+tmp/*
+
+# Local Crash Logs while Compiling
+crash.log
